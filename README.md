@@ -2,7 +2,8 @@
 
 # Examples of running commands in the terminal
 
-<img width="1366" alt="screen shot" src="https://monosnap.com/file/VLicU0s3VePMbIkrzGc4bYeU1DtQ0d">
+<img width="1366" alt="screen shot" src="https://github.com/Victoria-Fedkova/nodejs-homework-1-cli-app/assets/63882255/95b33ad4-5bbc-46d7-8e90-b8750eb437f1">
+
 
 
 
