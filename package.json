@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-homework-1-cli-client",
+  "name": "nodejs-homework-1-cli-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,9 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.4"
   }
 }
