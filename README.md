@@ -2,7 +2,8 @@
 
 # Examples of running commands in the terminal
 
-<img width="1505" alt="Снимок экрана 2023-07-12 в 00 31 11" src="https://github.com/Victoria-Fedkova/nodejs-homework-1-cli-app/assets/63882255/846398d5-ab62-4e65-8445-d6ac0ce53681">
+<img width="1366" alt="screen shot" src="https://github.com/Victoria-Fedkova/nodejs-homework-1-cli-app/assets/63882255/eab5cd04-7228-4111-a103-638eadc9a4ef">
+
 
 
 # Get and display the entire list of contacts in the form of a table (console.table)
